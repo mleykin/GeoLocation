@@ -1,0 +1,4 @@
+#Tue Jan 15 11:54:20 MSK 2019
+base.0=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/bFindGPS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Find by GPS" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Find by CellID"
+        android:id="@+id/bFindCellID" />
+
+    <TextView
+    	android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+    	android:text="@string/lat" />
+    <EditText
+        android:id="@+id/etLatitude"
+        android:layout_width="103dp"
+        android:layout_height="wrap_content" />
+    <TextView  
+    	android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+    	android:text="@string/lon" />
+    <EditText
+        android:id="@+id/etLongitude"
+        android:layout_width="103dp"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/bShowMe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show Me!" />
+
+</LinearLayout>

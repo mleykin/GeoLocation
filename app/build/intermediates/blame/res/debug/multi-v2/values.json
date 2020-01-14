@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,6",
+                        "startColumns": "4,4,1,1",
+                        "startOffsets": "128,59,175,214",
+                        "endColumns": "48,67,37,38",
+                        "endOffsets": "172,122,211,251"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,104,172,213",
+                        "endColumns": "48,67,40,41",
+                        "endOffsets": "99,167,208,250"
+                    }
+                }
+            ]
+        }
+    ]
+}

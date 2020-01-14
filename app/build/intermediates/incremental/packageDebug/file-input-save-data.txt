@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Tue Jan 15 11:54:20 MSK 2019
+1.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+1.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=5
+1.set=DEX
+3.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\8. Location & Maps & Sensors\\GeoLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
